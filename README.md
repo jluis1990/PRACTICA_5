@@ -1,2 +1,2 @@
 # PRACTICA_5
-incluye base de datos
+incluye base de datos bd_producto
